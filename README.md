@@ -57,18 +57,6 @@ This project is an E-commerce Data Management System built with Python and Mongo
    ```bash
    cd ecommerce-data-management
    ```
-3. Install required Python packages:
-   ```bash
-   pip install pymongo
-   ```
-4. Start MongoDB server:
-   ```bash
-   mongod
-   ```
-5. Initialize the database and collections by running:
-   ```bash
-   python main.py
-   ```
 
 ---
 
@@ -103,11 +91,6 @@ print(result)
 
 ---
 
-## **License**
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
 
 ## **Acknowledgments**
 
